@@ -1,12 +1,10 @@
 query {
-  characters(id: 2) {
+  characters(page: 3) {
     results {
       id
       name
       status
-      species
-      type
-      gender
+      image
     }
   }
 }

@@ -1,38 +1,12 @@
 {
   "data": {
-    "characters": {
-      "results": [
-        {
-          "id": "11",
-          "name": "Will Smith",
-          "status": "Alive",
-          "image": "https://rickandmortyapi.com/api/character/avatar/11.jpeg"
-        },
-        {
-          "id": "12",
-          "name": "Idris Elba",
-          "status": "Alive",
-          "image": "https://rickandmortyapi.com/api/character/avatar/12.jpeg"
-        },
-        {
-          "id": "13",
-          "name": "Jessica Jones",
-          "status": "Alive",
-          "image": "https://rickandmortyapi.com/api/character/avatar/13.jpeg"
-        },
-        {
-          "id": "14",
-          "name": "Cassie Cage",
-          "status": "Alive",
-          "image": "https://rickandmortyapi.com/api/character/avatar/14.jpeg"
-        },
-        {
-          "id": "15",
-          "name": "Jack Bauer",
-          "status": "Alive",
-          "image": "https://rickandmortyapi.com/api/character/avatar/15.jpeg"
-        }
-      ]
+    "character": {
+      "id": "3",
+      "name": "Jeniffer Lopez",
+      "status": "Alive",
+      "species": "Human",
+      "type": "",
+      "gender": "Female"
     }
   }
 }

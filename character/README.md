@@ -10,9 +10,19 @@ Each query fetches **id, name, status, and image** fields for characters on page
 ## Project Structure
 
 ```
-alx-graphql-0x00/
+    alx-graphql-0x00/
 └── character/
     ├── README.md
+    │
+    ├── character-1.graphql
+    ├── character-1-output.json
+    ├── character-2.graphql
+    ├── character-2-output.json
+    ├── character-3.graphql
+    ├── character-3-output.json
+    ├── character-4.graphql
+    ├── character-4-output.json
+    │
     ├── characters-page-1.graphql
     ├── characters-page-1-output.json
     ├── characters-page-2.graphql
