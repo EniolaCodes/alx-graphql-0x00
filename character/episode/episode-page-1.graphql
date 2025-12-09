@@ -1,0 +1,10 @@
+query {
+  episode(id: 1) {
+    results {
+      id
+      name
+      air_date
+      episode
+    }
+  }
+}
