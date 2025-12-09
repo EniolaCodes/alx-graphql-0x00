@@ -1,0 +1,38 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "1",
+          "name": "Anthony Joshua",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+        },
+        {
+          "id": "2",
+          "name": "Morty Smith",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/2.jpeg"
+        },
+        {
+          "id": "3",
+          "name": "Summer Smith",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/3.jpeg"
+        },
+        {
+          "id": "4",
+          "name": "Bethany Smith",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/4.jpeg"
+        },
+        {
+          "id": "5",
+          "name": "Jeremiah Smith",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/5.jpeg"
+        }
+      ]
+    }
+  }
+}

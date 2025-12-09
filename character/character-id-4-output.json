@@ -1,0 +1,38 @@
+{
+  "data": {
+    "characters": {
+      "results": [
+        {
+          "id": "16",
+          "name": "Fatimah Adebimpe",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/16.jpeg"
+        },
+        {
+          "id": "17",
+          "name": "Alan Loyd",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/17.jpeg"
+        },
+        {
+          "id": "18",
+          "name": "Lucky Dube",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/18.jpeg"
+        },
+        {
+          "id": "19",
+          "name": "Nana Benyin",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/19.jpeg"
+        },
+        {
+          "id": "20",
+          "name": "Loyd Kincaid",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/20.jpeg"
+        }
+      ]
+    }
+  }
+}
